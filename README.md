@@ -3,13 +3,7 @@
 
 Проект Lamborghini на языке Kotlin предоставляет базовую модель автомобиля Lamborghini с возможностью запускать двигатель и узнавать его цену.
 
-### **Запуск проекта**
-
-Для запуска выполните следующие команды:
-
-`kotlinc src/org/example/main.kt -include-runtime -d Lamborghini.jar && java -jar Lamborghini.jar`
-
-### **Пример вывода**
+### **Пример работы**
 
 `Murcielago started`
 `500000$`
